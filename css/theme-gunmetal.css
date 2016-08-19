@@ -4339,7 +4339,7 @@ video {
   max-height: 350px;
 }
 .image-xs {
-  max-height: 50px;
+  max-height: 150px;
 }
 .image-xxs {
   max-height: 30px;
